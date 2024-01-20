@@ -1,68 +1,78 @@
-<div align="center" width="100%">
-    <img src="./public/icon.svg" width="128" alt="" />
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" width="100%" dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="/louislam/uptime-kuma/blob/master/public/icon.svg"><img src="/louislam/uptime-kuma/raw/master/public/icon.svg" width="128" alt="" style="max-width: 100%;"></a>
 </div>
+<h1 tabindex="-1" dir="auto"><a id="user-content-uptime-kuma" class="anchor" aria-hidden="true" tabindex="-1" href="#uptime-kuma"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正常运行时间库玛</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Uptime Kuma 是一款易于使用的自托管监控工具。</font></font></p>
+<p dir="auto"><a href="https://github.com/louislam/uptime-kuma"><img src="https://camo.githubusercontent.com/5eed429db8131351a9a526fc96da5f969b10ac628c009028cd85edf2748fc8b5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6c6f7569736c616d2f757074696d652d6b756d613f7374796c653d666c6174" data-canonical-src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat" style="max-width: 100%;"></a> <a href="https://hub.docker.com/r/louislam/uptime-kuma" rel="nofollow"><img src="https://camo.githubusercontent.com/061b3b8693492f15e67cdaab3380c02e4d3ab97c5759e400279ab757eb1b4e0c/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f70756c6c732f6c6f7569736c616d2f757074696d652d6b756d61" data-canonical-src="https://img.shields.io/docker/pulls/louislam/uptime-kuma" style="max-width: 100%;"></a> <a href="https://hub.docker.com/r/louislam/uptime-kuma" rel="nofollow"><img src="https://camo.githubusercontent.com/5be38ee9d6be9a7080f0ff3df5158b1d931e5eaccc87c9f28e7bf81704c3fc92/68747470733a2f2f696d672e736869656c64732e696f2f646f636b65722f762f6c6f7569736c616d2f757074696d652d6b756d612f6c61746573743f6c6162656c3d646f636b6572253230696d6167652532307665722e" data-canonical-src="https://img.shields.io/docker/v/louislam/uptime-kuma/latest?label=docker%20image%20ver." style="max-width: 100%;"></a> <a href="https://github.com/louislam/uptime-kuma"><img src="https://camo.githubusercontent.com/aa013c6a0c9bb66d63c09b01e22c45a4286279156fa2a4329f1350ed00eedd82/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6173742d636f6d6d69742f6c6f7569736c616d2f757074696d652d6b756d61" data-canonical-src="https://img.shields.io/github/last-commit/louislam/uptime-kuma" style="max-width: 100%;"></a>  <a href="https://opencollective.com/uptime-kuma" rel="nofollow"><img src="https://camo.githubusercontent.com/6f2f44f0cdd8166827e4f0094110cacd4a270548d01ea2e1f6ebd94766c9e4fd/68747470733a2f2f6f70656e636f6c6c6563746976652e636f6d2f757074696d652d6b756d612f746f74616c2f62616467652e7376673f6c6162656c3d4f70656e253230436f6c6c6563746976652532304261636b65727326636f6c6f723d627269676874677265656e" data-canonical-src="https://opencollective.com/uptime-kuma/total/badge.svg?label=Open%20Collective%20Backers&amp;color=brightgreen" style="max-width: 100%;"></a>
+<a href="https://github.com/sponsors/louislam"><img src="https://camo.githubusercontent.com/f2c3298b6eefd7bd76a4a794b459fdde8423d08741a60eba29be597a94badec1/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73706f6e736f72732f6c6f7569736c616d3f6c6162656c3d47697448756225323053706f6e736f7273" alt="GitHub 赞助商" data-canonical-src="https://img.shields.io/github/sponsors/louislam?label=GitHub%20Sponsors" style="max-width: 100%;"></a> <a href="https://weblate.kuma.pet/projects/uptime-kuma/uptime-kuma/" rel="nofollow">
+<img src="https://camo.githubusercontent.com/6aeb2f729f0064ace57c96877f62618888978602a48804a43272220f1c2437cc/68747470733a2f2f7765626c6174652e6b756d612e7065742f776964676574732f757074696d652d6b756d612f2d2f7376672d62616467652e737667" alt="翻译状态" data-canonical-src="https://weblate.kuma.pet/widgets/uptime-kuma/-/svg-badge.svg" style="max-width: 100%;">
+</a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1336778/212262296-e6205815-ad62-488c-83ec-a5b0d0689f7c.jpg"><img src="https://user-images.githubusercontent.com/1336778/212262296-e6205815-ad62-488c-83ec-a5b0d0689f7c.jpg" width="700" alt="" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--live-demo" class="anchor" aria-hidden="true" tabindex="-1" href="#-live-demo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🥔 现场演示</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尝试一下！</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演示服务器（地点：德国法兰克福）：</font></font><a href="https://demo.kuma.pet/start-demo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https ://demo.kuma.pet/start-demo</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这是一个临时的现场演示，所有数据将在10分钟后删除。</font><font style="vertical-align: inherit;">由</font></font><a href="https://github.com/louislam/uptime-kuma#%EF%B8%8F-sponsors"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Uptime Kuma 赞助商</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--features" class="anchor" aria-hidden="true" tabindex="-1" href="#-features"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⭐ 特点</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">监控 HTTP(s) / TCP / HTTP(s) 关键字 / HTTP(s) Json 查询 / Ping / DNS 记录 / 推送 / Steam 游戏服务器 / Docker 容器的正常运行时间</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">精美、反应式、快速的 UI/UX</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">通过 Telegram、Discord、Gotify、Slack、Pushover、电子邮件 (SMTP) 和</font></font><a href="https://github.com/louislam/uptime-kuma/tree/master/src/components/notifications"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">90 多种通知服务发送通知，请单击此处查看完整列表</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">20 秒间隔</font></font></li>
+<li><a href="https://github.com/louislam/uptime-kuma/tree/master/src/lang"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多种语言</font></font></a></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">多个状态页面</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将状态页面映射到特定域</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">平图</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">证书信息</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">代理支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2FA 支持</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content--how-to-install" class="anchor" aria-hidden="true" tabindex="-1" href="#-how-to-install"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔧 如何安装</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content--docker" class="anchor" aria-hidden="true" tabindex="-1" href="#-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🐳 Docker</font></font></h3>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Uptime Kuma 现已在</font></font><a href="http://localhost:3001" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:3001上运行</font></font></a></p>
+<div class="markdown-alert markdown-alert-warning" dir="auto"><p class="markdown-alert-title" dir="auto"><svg class="octicon octicon-alert mr-2" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path></svg><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">警告</font></font></p><p dir="auto"><font style="vertical-align: inherit;"><strong><font style="vertical-align: inherit;">不支持</font></strong></font><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NFS</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（网络文件系统）</font><font style="vertical-align: inherit;">等文件系统</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">请映射到本地目录或卷。</font></font><strong><font style="vertical-align: inherit;"></font></strong><font style="vertical-align: inherit;"></font></p>
+</div>
+<h3 tabindex="-1" dir="auto"><a id="user-content--non-docker" class="anchor" aria-hidden="true" tabindex="-1" href="#-non-docker"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💪🏻 非 Docker</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要求：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">平台
+</font></font><ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ 主要 Linux 发行版，例如 Debian、Ubuntu、CentOS、Fedora 和 ArchLinux 等。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✅ Windows 10 (x64)、Windows Server 2012 R2 (x64) 或更高版本</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❌Replit / Heroku</font></font></li>
+</ul>
+</li>
+<li><a href="https://nodejs.org/en/download/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Node.js</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 14 / 16 / 18 / 20.4</font></font></li>
+<li><a href="https://docs.npmjs.com/cli/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">新PM</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 9</font></font></li>
+<li><a href="https://git-scm.com/downloads" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">git</font></font></a></li>
+<li><a href="https://pm2.keymetrics.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">pm2</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 用于在后台运行 Uptime Kuma</font></font></li>
+</ul>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> Update your npm</span>
+npm install npm@9 -g
 
-# Uptime Kuma
+git clone https://github.com/louislam/uptime-kuma.git
+<span class="pl-c1">cd</span> uptime-kuma
+npm run setup
 
-Uptime Kuma is an easy-to-use self-hosted monitoring tool.
+<span class="pl-c"><span class="pl-c">#</span> Option 1. Try it</span>
+node server/server.js
 
-<a target="_blank" href="https://github.com/louislam/uptime-kuma"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma" /></a> <a target="_blank" href="https://hub.docker.com/r/louislam/uptime-kuma"><img src="https://img.shields.io/docker/pulls/louislam/uptime-kuma" /></a> <a target="_blank" href="https://hub.docker.com/r/louislam/uptime-kuma"><img src="https://img.shields.io/docker/v/louislam/uptime-kuma/latest?label=docker%20image%20ver." /></a> <a target="_blank" href="https://github.com/louislam/uptime-kuma"><img src="https://img.shields.io/github/last-commit/louislam/uptime-kuma" /></a>  <a target="_blank" href="https://opencollective.com/uptime-kuma"><img src="https://opencollective.com/uptime-kuma/total/badge.svg?label=Open%20Collective%20Backers&color=brightgreen" /></a>
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/louislam?label=GitHub%20Sponsors)](https://github.com/sponsors/louislam) <a href="https://weblate.kuma.pet/projects/uptime-kuma/uptime-kuma/">
-<img src="https://weblate.kuma.pet/widgets/uptime-kuma/-/svg-badge.svg" alt="Translation status" />
-</a>
+<span class="pl-c"><span class="pl-c">#</span> (Recommended) Option 2. Run in the background using PM2</span>
+<span class="pl-c"><span class="pl-c">#</span> Install PM2 if you don't have it:</span>
+npm install pm2 -g <span class="pl-k">&amp;&amp;</span> pm2 install pm2-logrotate
 
-<img src="https://user-images.githubusercontent.com/1336778/212262296-e6205815-ad62-488c-83ec-a5b0d0689f7c.jpg" width="700" alt="" />
-
-## 🥔 Live Demo
-
-Try it!
-
-- Tokyo Demo Server: https://demo.uptime.kuma.pet (Sponsored by [Uptime Kuma Sponsors](https://github.com/louislam/uptime-kuma#%EF%B8%8F-sponsors))
-
-It is a temporary live demo, all data will be deleted after 10 minutes. Use the one that is closer to you, but I suggest that you should install and try it out for the best demo experience.
-
-## ⭐ Features
-
-- Monitoring uptime for HTTP(s) / TCP / HTTP(s) Keyword / HTTP(s) Json Query / Ping / DNS Record / Push / Steam Game Server / Docker Containers
-- Fancy, Reactive, Fast UI/UX
-- Notifications via Telegram, Discord, Gotify, Slack, Pushover, Email (SMTP), and [90+ notification services, click here for the full list](https://github.com/louislam/uptime-kuma/tree/master/src/components/notifications)
-- 20-second intervals
-- [Multi Languages](https://github.com/louislam/uptime-kuma/tree/master/src/lang)
-- Multiple status pages
-- Map status pages to specific domains
-- Ping chart
-- Certificate info
-- Proxy support
-- 2FA support
-
-## 🔧 How to Install
-
-### 🐳 Docker
-
-```bash
-docker run -d --restart=always -p 3001:3001 -v uptime-kuma:/app/data --name uptime-kuma louislam/uptime-kuma:1
-```
-
-Uptime Kuma is now running on http://localhost:3001
-
-> [!WARNING]
-> File Systems like **NFS** (Network File System) are **NOT** supported. Please map to a local directory or volume.
-
-### 💪🏻 Non-Docker
-
-Requirements:
-
-- Platform
-  - ✅ Major Linux distros such as Debian, Ubuntu, CentOS, Fedora and ArchLinux etc.
-  - ✅ Windows 10 (x64), Windows Server 2012 R2 (x64) or higher
-  - ❌ Replit / Heroku
-- [Node.js](https://nodejs.org/en/download/) 14 / 16 / 18 / 20.4
-- [npm](https://docs.npmjs.com/cli/) 9
-- [Git](https://git-scm.com/downloads)
-- [pm2](https://pm2.keymetrics.io/) - For running Uptime Kuma in the background
-
-```bash
-# Update your npm
+<span class="pl-c"><span class="pl-c">#</span> Start Server</span>
+pm2 start server/server.js --name uptime-kuma</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# Update your npm
 npm install npm@9 -g
 
 git clone https://github.com/louislam/uptime-kuma.git
@@ -74,115 +84,92 @@ node server/server.js
 
 # (Recommended) Option 2. Run in the background using PM2
 # Install PM2 if you don't have it:
-npm install pm2 -g && pm2 install pm2-logrotate
+npm install pm2 -g &amp;&amp; pm2 install pm2-logrotate
 
 # Start Server
-pm2 start server/server.js --name uptime-kuma
-```
+pm2 start server/server.js --name uptime-kuma" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Uptime Kuma 现已在</font></font><a href="http://localhost:3001" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">http://localhost:3001上运行</font></font></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">更有用的 PM2 命令</font></font></p>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c"><span class="pl-c">#</span> If you want to see the current console output</span>
+pm2 monit
 
-Uptime Kuma is now running on http://localhost:3001
-
-More useful PM2 Commands
-
-```bash
-# If you want to see the current console output
+<span class="pl-c"><span class="pl-c">#</span> If you want to add it to startup</span>
+pm2 save <span class="pl-k">&amp;&amp;</span> pm2 startup</pre><div class="zeroclipboard-container">
+    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="# If you want to see the current console output
 pm2 monit
 
 # If you want to add it to startup
-pm2 save && pm2 startup
-```
-
-### Advanced Installation
-
-If you need more options or need to browse via a reverse proxy, please read:
-
-https://github.com/louislam/uptime-kuma/wiki/%F0%9F%94%A7-How-to-Install
-
-## 🆙 How to Update
-
-Please read:
-
-https://github.com/louislam/uptime-kuma/wiki/%F0%9F%86%99-How-to-Update
-
-## 🆕 What's Next?
-
-I will assign requests/issues to the next milestone.
-
-https://github.com/louislam/uptime-kuma/milestones
-
-## ❤️ Sponsors
-
-Thank you so much! (GitHub Sponsors will be updated manually. OpenCollective sponsors will be updated automatically, the list will be cached by GitHub though. It may need some time to be updated)
-
-<img src="https://uptime.kuma.pet/sponsors?v=6" alt />
-
-## 🖼 More Screenshots
-
-Light Mode:
-
-<img src="https://uptime.kuma.pet/img/light.jpg" width="512" alt="" />
-
-Status Page:
-
-<img src="https://user-images.githubusercontent.com/1336778/134628766-a3fe0981-0926-4285-ab46-891a21c3e4cb.png" width="512" alt="" />
-
-Settings Page:
-
-<img src="https://louislam.net/uptimekuma/2.jpg" width="400" alt="" />
-
-Telegram Notification Sample:
-
-<img src="https://louislam.net/uptimekuma/3.jpg" width="400" alt="" />
-
-## Motivation
-
-- I was looking for a self-hosted monitoring tool like "Uptime Robot", but it is hard to find a suitable one. One of the close ones is statping. Unfortunately, it is not stable and no longer maintained.
-- Want to build a fancy UI.
-- Learn Vue 3 and vite.js.
-- Show the power of Bootstrap 5.
-- Try to use WebSocket with SPA instead of REST API.
-- Deploy my first Docker image to Docker Hub.
-
-If you love this project, please consider giving me a ⭐.
-
-## 🗣️ Discussion / Ask for Help
-
-⚠️ For any general or technical questions, please don't send me an email, as I am unable to provide support in that manner. I will not respond if you ask such questions.
-
-I recommend using Google, GitHub Issues, or Uptime Kuma's Subreddit for finding answers to your question. If you cannot find the information you need, feel free to ask:
-
-- [GitHub Issues](https://github.com/louislam/uptime-kuma/issues)
-- [Subreddit r/Uptime kuma](https://www.reddit.com/r/UptimeKuma/)
-
-My Reddit account: [u/louislamlam](https://reddit.com/u/louislamlam).
-You can mention me if you ask a question on Reddit.
-
-## Contribute
-
-### Test Pull Requests
-
-There are a lot of pull requests right now, but I don't have time to test them all.
-
-If you want to help, you can check this:
-https://github.com/louislam/uptime-kuma/wiki/Test-Pull-Requests
-
-### Test Beta Version
-
-Check out the latest beta release here: https://github.com/louislam/uptime-kuma/releases
-
-### Bug Reports / Feature Requests
-
-If you want to report a bug or request a new feature, feel free to open a [new issue](https://github.com/louislam/uptime-kuma/issues).
-
-### Translations
-
-If you want to translate Uptime Kuma into your language, please visit [Weblate Readme](https://github.com/louislam/uptime-kuma/blob/master/src/lang/README.md).
-
-### Spelling & Grammar
-
-Feel free to correct the grammar in the documentation or code.
-My mother language is not english and my grammar is not that great.
-
-### Create Pull Requests
-
-If you want to modify Uptime Kuma, please read this guide and follow the rules here: https://github.com/louislam/uptime-kuma/blob/master/CONTRIBUTING.md
+pm2 save &amp;&amp; pm2 startup" tabindex="0" role="button">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
+    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
+</svg>
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
+    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
+</svg>
+    </clipboard-copy>
+  </div></div>
+<h3 tabindex="-1" dir="auto"><a id="user-content-advanced-installation" class="anchor" aria-hidden="true" tabindex="-1" href="#advanced-installation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级安装</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您需要更多选项或需要通过反向代理浏览，请阅读：</font></font></p>
+<p dir="auto"><a href="https://github.com/louislam/uptime-kuma/wiki/%F0%9F%94%A7-How-to-Install"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/louislam/uptime-kuma/wiki/%F0%9F%94%A7-如何安装</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--how-to-update" class="anchor" aria-hidden="true" tabindex="-1" href="#-how-to-update"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🆙 如何更新</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请阅读：</font></font></p>
+<p dir="auto"><a href="https://github.com/louislam/uptime-kuma/wiki/%F0%9F%86%99-How-to-Update"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/louislam/uptime-kuma/wiki/%F0%9F%86%99-如何更新</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--whats-next" class="anchor" aria-hidden="true" tabindex="-1" href="#-whats-next"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🆕 接下来是什么？</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我会将请求/问题分配给下一个里程碑。</font></font></p>
+<p dir="auto"><a href="https://github.com/louislam/uptime-kuma/milestones"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https://github.com/louislam/uptime-kuma/milestones</font></font></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-sponsors" class="anchor" aria-hidden="true" tabindex="-1" href="#️-sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">❤️赞助商</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">太感谢了！</font><font style="vertical-align: inherit;">（GitHub 赞助商将手动更新。OpenCollective 赞助商将自动更新，但列表将由 GitHub 缓存。更新可能需要一些时间）</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6a1720d80e0aea84289d65e8174237c12e9992f97cb69d7979b9b26d0b12d970/68747470733a2f2f757074696d652e6b756d612e7065742f73706f6e736f72733f763d36"><img src="https://camo.githubusercontent.com/6a1720d80e0aea84289d65e8174237c12e9992f97cb69d7979b9b26d0b12d970/68747470733a2f2f757074696d652e6b756d612e7065742f73706f6e736f72733f763d36" alt="" data-canonical-src="https://uptime.kuma.pet/sponsors?v=6" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content--more-screenshots" class="anchor" aria-hidden="true" tabindex="-1" href="#-more-screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🖼 更多截图</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">灯光模式：</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0c0c4aa47f0366178f424be7961220d5d853545e078df729e391d9fc791a6feb/68747470733a2f2f757074696d652e6b756d612e7065742f696d672f6c696768742e6a7067"><img src="https://camo.githubusercontent.com/0c0c4aa47f0366178f424be7961220d5d853545e078df729e391d9fc791a6feb/68747470733a2f2f757074696d652e6b756d612e7065742f696d672f6c696768742e6a7067" width="512" alt="" data-canonical-src="https://uptime.kuma.pet/img/light.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">状态页：</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/1336778/134628766-a3fe0981-0926-4285-ab46-891a21c3e4cb.png"><img src="https://user-images.githubusercontent.com/1336778/134628766-a3fe0981-0926-4285-ab46-891a21c3e4cb.png" width="512" alt="" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设置页面：</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69f9ff696ea88df12cf9ce58c1a0cdf7f99d1bcf7782ad1e999f75eb361aec97/68747470733a2f2f6c6f7569736c616d2e6e65742f757074696d656b756d612f322e6a7067"><img src="https://camo.githubusercontent.com/69f9ff696ea88df12cf9ce58c1a0cdf7f99d1bcf7782ad1e999f75eb361aec97/68747470733a2f2f6c6f7569736c616d2e6e65742f757074696d656b756d612f322e6a7067" width="400" alt="" data-canonical-src="https://louislam.net/uptimekuma/2.jpg" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电报通知示例：</font></font></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a95e6338694a63007f0d79416d7801271072ea748043dbc89fa281152e770d98/68747470733a2f2f6c6f7569736c616d2e6e65742f757074696d656b756d612f332e6a7067"><img src="https://camo.githubusercontent.com/a95e6338694a63007f0d79416d7801271072ea748043dbc89fa281152e770d98/68747470733a2f2f6c6f7569736c616d2e6e65742f757074696d656b756d612f332e6a7067" width="400" alt="" data-canonical-src="https://louislam.net/uptimekuma/3.jpg" style="max-width: 100%;"></a></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-motivation" class="anchor" aria-hidden="true" tabindex="-1" href="#motivation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">动机</font></font></h2>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我一直在寻找像“Uptime Robot”这样的自托管监控工具，但很难找到合适的。</font><font style="vertical-align: inherit;">最接近的之一是 statping。</font><font style="vertical-align: inherit;">不幸的是，它不稳定并且不再维护。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">想要构建一个精美的 UI。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">学习 Vue 3 和 vite.js。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">展示 Bootstrap 5 的强大功能。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">尝试将 WebSocket 与 SPA 结合使用，而不是使用 REST API。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">将我的第一个 Docker 映像部署到 Docker Hub。</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您喜欢这个项目，请考虑给它一个⭐。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-️-discussion--ask-for-help" class="anchor" aria-hidden="true" tabindex="-1" href="#️-discussion--ask-for-help"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🗣️讨论/寻求帮助</font></font></h2>
+<p dir="auto"><g-emoji class="g-emoji" alias="warning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">⚠️</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对于任何一般性或技术问题，请不要向我发送电子邮件，因为我无法以这种方式提供支持。</font><font style="vertical-align: inherit;">如果你在那里提问，我不会回复。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我建议使用 Google、GitHub Issues 或 Uptime Kuma 的 Reddit 子版块来查找问题的答案。</font><font style="vertical-align: inherit;">如果您找不到所需的信息，请随时询问：</font></font></p>
+<ul dir="auto">
+<li><a href="https://github.com/louislam/uptime-kuma/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GitHub 问题</font></font></a></li>
+<li><a href="https://www.reddit.com/r/UptimeKuma/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Reddit 子版块 (r/UptimeKuma)</font></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我的 Reddit 帐户：</font></font><a href="https://reddit.com/u/louislamlam" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">u/louislamlam</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+如果您在 Reddit 子版块上提问，可以提及我。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-contributions" class="anchor" aria-hidden="true" tabindex="-1" href="#contributions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贡献</font></font></h2>
+<h3 tabindex="-1" dir="auto"><a id="user-content-create-pull-requests" class="anchor" aria-hidden="true" tabindex="-1" href="#create-pull-requests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创建拉取请求</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们不接受所有类型的拉取请求，也不想浪费您的时间。</font><font style="vertical-align: inherit;">请确保您已阅读并遵循拉取请求规则：
+ </font></font><a href="https://github.com/louislam/uptime-kuma/blob/master/CONTRIBUTING.md#can-i-create-a-pull-request-for-uptime-kuma"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CONTRIBUTING.md#can-i-create-a-pull-request-for-uptime-kuma</font></font></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-test-pull-requests" class="anchor" aria-hidden="true" tabindex="-1" href="#test-pull-requests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试请求请求</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在有很多拉取请求，但我没有时间全部测试。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想提供帮助，可以查看：
+ https: </font></font><a href="https://github.com/louislam/uptime-kuma/wiki/Test-Pull-Requests"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">//github.com/louislam/uptime-kuma/wiki/Test-Pull-Requests</font></font></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-test-beta-version" class="anchor" aria-hidden="true" tabindex="-1" href="#test-beta-version"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">测试版</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在此处查看最新的测试版：</font></font><a href="https://github.com/louislam/uptime-kuma/releases"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">https ://github.com/louislam/uptime-kuma/releases</font></font></a></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-bug-reports--feature-requests" class="anchor" aria-hidden="true" tabindex="-1" href="#bug-reports--feature-requests"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">错误报告/功能请求</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想报告错误或请求新功能，请随时打开</font></font><a href="https://github.com/louislam/uptime-kuma/issues"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">新问题</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-translations" class="anchor" aria-hidden="true" tabindex="-1" href="#translations"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">翻译</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">如果您想将 Uptime Kuma 翻译成您的语言，请访问</font></font><a href="https://github.com/louislam/uptime-kuma/blob/master/src/lang/README.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Weblate Readme</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<h3 tabindex="-1" dir="auto"><a id="user-content-spelling--grammar" class="anchor" aria-hidden="true" tabindex="-1" href="#spelling--grammar"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">拼写和语法</font></font></h3>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请随意更正文档或代码中的语法。</font><font style="vertical-align: inherit;">我的母语不是英语，我的语法也不是很好。</font></font></p>
+</article></div>
